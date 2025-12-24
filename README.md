@@ -67,7 +67,3 @@ Each dataset typically contains:
 - **table_a**: Source entities from the first data source
 - **table_b**: Source entities from the second data source
 - **gold**: Known matching pairs between table_a and table_b entities
-
-
-## Citation
-When using this dataset, please cite the original ER_Magellan benchmark papers and acknowledge this enhanced version if applicable.
